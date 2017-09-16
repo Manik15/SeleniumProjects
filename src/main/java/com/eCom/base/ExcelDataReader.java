@@ -6,10 +6,7 @@ public class ExcelDataReader {
 
 	
 	
-	public ExcelDataReader()
-	{
-		
-	}
+	
 	
 	public void getExcelData(String sheetName, String rouNum, String colNum)
 	{
