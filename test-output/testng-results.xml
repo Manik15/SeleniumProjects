@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="100396" started-at="2017-09-16T14:22:33Z" finished-at="2017-09-16T14:24:14Z">
+  <suite name="Default suite" duration-ms="93479" started-at="2017-09-16T17:56:17Z" finished-at="2017-09-16T17:57:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="100396" started-at="2017-09-16T14:22:33Z" finished-at="2017-09-16T14:24:14Z">
+    <test name="Default test" duration-ms="93479" started-at="2017-09-16T17:56:17Z" finished-at="2017-09-16T17:57:51Z">
       <class name="eCommerce.amazonTest">
-        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:eCommerce.amazonTest@5e5792a0]" name="basePageNavigation" duration-ms="100139" started-at="2017-09-16T19:52:33Z" data-provider="getDataSign" finished-at="2017-09-16T19:54:14Z">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:eCommerce.amazonTest@5e5792a0]" name="basePageNavigation" duration-ms="93302" started-at="2017-09-16T23:26:18Z" data-provider="getDataSign" finished-at="2017-09-16T23:27:51Z">
           <params>
             <param index="0">
               <value>
