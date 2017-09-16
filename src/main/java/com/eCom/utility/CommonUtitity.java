@@ -10,4 +10,8 @@ public class CommonUtitity {
 		WebDriverWait wd = new WebDriverWait(driver, 10);
 		wd.until(ExpectedConditions.visibilityOf(we));
 	}
+	public static void waitForElementToBeClickable(WebDriver driver, WebElement we) {
+		WebDriverWait wd = new WebDriverWait(driver, 10);
+		wd.until(ExpectedConditions.visibilityOf(we));
+	}
 }

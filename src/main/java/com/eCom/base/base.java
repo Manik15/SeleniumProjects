@@ -18,7 +18,7 @@ public class base {
 	{
 		Properties prop= new Properties();
 		
-		FileInputStream fis= new FileInputStream("C:\\Users\\Manikantan\\Documents\\Selenium Docs\\Maven Projects\\Amazon\\src\\main\\java\\data.properties");
+		FileInputStream fis= new FileInputStream("src\\main\\java\\data.properties");
 		
 		prop.load(fis);
 		String browserName=prop.getProperty("browser");

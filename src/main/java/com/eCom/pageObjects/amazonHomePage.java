@@ -6,6 +6,8 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import com.eCom.utility.CommonUtitity;
+
 public class amazonHomePage {
 
 	public WebDriver driver;
@@ -55,6 +57,7 @@ public class amazonHomePage {
 		Actions A= new Actions(driver);
 		A.moveToElement(hover).build().perform();
 		//driver.findElement(By.xpath("//div[@id='nav-flyout-ya-signin']/a/span[@class='nav-action-inner']")).click();;
+		CommonUtitity.waitForElementToBeClickable(driver, signIn);
 		signIn.click();
 		//driver.findElement(By.xpath("//input[@type='email']")).sendKeys("appumuv@gmail.com");
 		emailID.sendKeys(user);
