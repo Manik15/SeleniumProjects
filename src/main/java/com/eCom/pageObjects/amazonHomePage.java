@@ -5,6 +5,12 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+<<<<<<< HEAD
+import org.testng.annotations.DataProvider;
+
+import com.eCom.utility.CommonUtitity;
+=======
+>>>>>>> branch 'master' of https://github.com/Manik15/SeleniumProjects
 
 import com.eCom.utility.CommonUtitity;
 
