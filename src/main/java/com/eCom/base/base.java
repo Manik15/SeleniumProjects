@@ -1,4 +1,4 @@
-package eCommerce;
+package com.eCom.base;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

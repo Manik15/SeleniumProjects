@@ -6,8 +6,8 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 
-import pageObjects.amazonHomePage;
-import eCommerce.base;
+import com.eCom.pageObjects.amazonHomePage;
+import com.eCom.base.*;
 
 public class amazonTest extends base
 {
