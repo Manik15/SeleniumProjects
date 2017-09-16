@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.DataProvider;
 
-import com.ecommerce.utility.CommonUtitity;
+import com.eCom.utility.CommonUtitity;
 
 public class amazonHomePage {
 
