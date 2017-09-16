@@ -61,11 +61,7 @@ public class base {
 		//0th row
 		data[0][0]="appumuv@gmail.com";
 		data[0][1]="Anushka19915";
-		//data[0][2]="Restrcited User";
-		//1st row
-		//data[1][0]="restricteduser@qw.com";
-		//data[1][1]="456788";
-		//data[1][2]= "Non restricted user";
+		
 		
 		return data;	
 	}
