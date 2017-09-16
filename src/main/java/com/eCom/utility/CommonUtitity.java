@@ -1,4 +1,4 @@
-package com.ecommerce.utility;
+package com.eCom.utility;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
